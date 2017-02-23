@@ -17,5 +17,5 @@ const routes = require('./routes');
 app.use('/', routes);
 
 const listener = app.listen(process.env.PORT || 4000, function () {
-  logger.info(`gomix-template-1 started on port ${listener.address().port}`);
+  logger.info(`James' Perfect web dev started on port ${listener.address().port}`);
 });
