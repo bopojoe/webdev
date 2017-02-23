@@ -1,0 +1,24 @@
+{
+  "bookmarkCollection": [
+    {
+      "id": "01",
+      "title": "HTML Learning Resources",
+      "links": []
+    },
+    {
+      "id": "02",
+      "title": "CSS Learning Resources",
+      "links": []
+    },
+    {
+      "id": "03",
+      "title": "JavaScript Learning Resources",
+      "links": []
+    },
+    {
+      "id": "a3e686ed-d5c2-4433-a829-1bd13e91f9c0",
+      "title": "Anything but web",
+      "links": []
+    }
+  ]
+}

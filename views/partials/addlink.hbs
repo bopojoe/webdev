@@ -1,0 +1,17 @@
+<form class="ui inverted stacked segment form" action="/bookmark/{{bookmark.id}}/addlink" method="POST">
+  <div class="three wide fields">
+    <div class="field">
+      <label>Bookmark</label>
+      <input placeholder="Bookmark" type="text" name="bookmark">
+    </div>
+    <div class="field">
+      <label>Link</label>
+      <input placeholder="https://www.facebook.com" type="text" name="link">
+    </div>
+    <div class="field">
+      <label>Summary</label>
+      <input placeholder="Summary of link" type="text" name="Summary">
+    </div>
+  </div>
+  <button class="ui orange submit button">Add Link</button>
+</form>

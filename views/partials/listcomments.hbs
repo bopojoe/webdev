@@ -1,0 +1,20 @@
+<table class="ui selectable inverted table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each comments}}
+      <tr>
+        <td>
+          {{name}} 
+        </td>
+        <td>
+          {{comment}}
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
